@@ -1,0 +1,51 @@
+09:48:01.882 [main] INFO  testCases.tc001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest ***
+09:48:01.991 [main] INFO  testCases.tc001_AccountRegistrationTest - Browser closed.
+09:48:03.545 [main] INFO  testCases.tc001_AccountRegistrationTest - Browser closed.
+09:48:13.252 [main] INFO  testCases.tc001_AccountRegistrationTest - Browser launched and URL opened.
+09:48:13.256 [main] INFO  testCases.tc001_AccountRegistrationTest - -----Startin TC001_AccountRegistraionTest----
+09:48:13.433 [main] INFO  testCases.tc001_AccountRegistrationTest - Clicked on Myaccount link
+09:48:14.371 [main] INFO  testCases.tc001_AccountRegistrationTest - clicked registration link
+09:48:14.377 [main] INFO  testCases.tc001_AccountRegistrationTest - Providing customer details
+09:48:14.965 [main] INFO  testCases.tc001_AccountRegistrationTest - Browser launched and URL opened.
+09:48:14.965 [main] INFO  testCases.tc001_AccountRegistrationTest - -----Startin TC001_AccountRegistraionTest----
+09:48:15.243 [main] INFO  testCases.tc001_AccountRegistrationTest - Clicked on Myaccount link
+09:48:15.887 [main] INFO  testCases.tc001_AccountRegistrationTest - clicked registration link
+09:48:15.887 [main] INFO  testCases.tc001_AccountRegistrationTest - Providing customer details
+09:48:18.210 [main] INFO  testCases.tc001_AccountRegistrationTest - validating expected Message
+09:48:18.240 [main] INFO  testCases.tc001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest ***
+09:48:19.578 [main] INFO  testCases.tc001_AccountRegistrationTest - validating expected Message
+09:48:19.608 [main] INFO  testCases.tc001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest ***
+09:48:19.617 [main] INFO  testCases.tc001_AccountRegistrationTest - Browser closed.
+09:48:20.484 [main] INFO  testCases.tc001_AccountRegistrationTest - Browser closed.
+09:48:28.167 [main] INFO  testCases.tc001_AccountRegistrationTest - Browser launched and URL opened.
+09:48:28.170 [main] INFO  testCases.tc001_AccountRegistrationTest - -----Startin TC001_AccountRegistraionTest----
+09:48:28.445 [main] INFO  testCases.tc001_AccountRegistrationTest - Clicked on Myaccount link
+09:48:29.452 [main] INFO  testCases.tc001_AccountRegistrationTest - clicked registration link
+09:48:29.452 [main] INFO  testCases.tc001_AccountRegistrationTest - Providing customer details
+09:48:32.917 [main] INFO  testCases.tc001_AccountRegistrationTest - validating expected Message
+09:48:32.937 [main] INFO  testCases.tc001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest ***
+09:48:33.602 [main] INFO  testCases.tc001_AccountRegistrationTest - Browser closed.
+10:22:54.100 [main] INFO  testCases.tc001_AccountRegistrationTest - Browser launched and URL opened.
+10:22:54.125 [main] INFO  testCases.tc001_AccountRegistrationTest - -----Startin TC001_AccountRegistraionTest----
+10:22:54.237 [main] INFO  testCases.tc001_AccountRegistrationTest - Clicked on Myaccount link
+10:22:54.988 [main] INFO  testCases.tc001_AccountRegistrationTest - clicked registration link
+10:22:54.990 [main] INFO  testCases.tc001_AccountRegistrationTest - Providing customer details
+10:22:58.260 [main] INFO  testCases.tc001_AccountRegistrationTest - validating expected Message
+10:22:58.306 [main] INFO  testCases.tc001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest ***
+10:22:58.633 [main] INFO  testCases.tc001_AccountRegistrationTest - Browser closed.
+15:06:47.218 [main] INFO  testCases.tc001_AccountRegistrationTest - Browser launched and URL opened.
+15:06:47.245 [main] INFO  testCases.tc001_AccountRegistrationTest - -----Startin TC001_AccountRegistraionTest----
+15:06:47.335 [main] INFO  testCases.tc001_AccountRegistrationTest - Clicked on Myaccount link
+15:06:47.940 [main] INFO  testCases.tc001_AccountRegistrationTest - clicked registration link
+15:06:47.941 [main] INFO  testCases.tc001_AccountRegistrationTest - Providing customer details
+15:06:51.300 [main] INFO  testCases.tc001_AccountRegistrationTest - validating expected Message
+15:06:51.339 [main] INFO  testCases.tc001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest ***
+15:06:51.664 [main] INFO  testCases.tc001_AccountRegistrationTest - Browser closed.
+15:07:12.614 [main] INFO  testCases.tc001_AccountRegistrationTest - Browser launched and URL opened.
+15:07:12.646 [main] INFO  testCases.tc001_AccountRegistrationTest - -----Startin TC001_AccountRegistraionTest----
+15:07:12.730 [main] INFO  testCases.tc001_AccountRegistrationTest - Clicked on Myaccount link
+15:07:13.299 [main] INFO  testCases.tc001_AccountRegistrationTest - clicked registration link
+15:07:13.302 [main] INFO  testCases.tc001_AccountRegistrationTest - Providing customer details
+15:07:17.017 [main] INFO  testCases.tc001_AccountRegistrationTest - validating expected Message
+15:07:17.047 [main] INFO  testCases.tc001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest ***
+15:07:17.256 [main] INFO  testCases.tc001_AccountRegistrationTest - Browser closed.

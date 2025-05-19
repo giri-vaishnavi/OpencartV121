@@ -1,0 +1,16 @@
+23:12:06.328 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:12:06.328 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:12:06.350 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:12:06.350 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:12:06.350 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:12:06.350 [main] INFO  testCases.TC003_loginDDT - ----starting TC003_loginDDT -----
+23:12:08.046 [main] INFO  testCases.TC003_loginDDT - ----Finished TC003_loginDDT------
+23:12:08.050 [main] INFO  testCases.TC003_loginDDT - ----starting TC003_loginDDT -----
+23:12:19.654 [main] INFO  testCases.TC003_loginDDT - ----Finished TC003_loginDDT------
+23:12:19.656 [main] INFO  testCases.TC003_loginDDT - ----starting TC003_loginDDT -----
+23:12:30.925 [main] INFO  testCases.TC003_loginDDT - ----Finished TC003_loginDDT------
+23:12:30.925 [main] INFO  testCases.TC003_loginDDT - ----starting TC003_loginDDT -----
+23:12:42.366 [main] INFO  testCases.TC003_loginDDT - ----Finished TC003_loginDDT------
+23:12:42.366 [main] INFO  testCases.TC003_loginDDT - ----starting TC003_loginDDT -----
+23:12:44.322 [main] INFO  testCases.TC003_loginDDT - ----Finished TC003_loginDDT------
+23:12:44.546 [main] INFO  testCases.TC003_loginDDT - Browser closed.
