@@ -8,8 +8,10 @@ package utilities;
 	    // DataProvider 1
 	    @DataProvider(name = "LoginData")
 	    public String[][] getData() throws IOException {
-	      //  String path = ".\\testData\\OpenCartLoginData.xlsx"; // taking xl file from testData
-	        String path =    System.getProperty("user.dir")+"\\testData\\OpenCartLoginData.xlsx";
+	      
+	    	//  String path = ".\\testData\\OpenCartLoginData.xlsx"; // taking xl file from testData
+	       
+	    	String path =    System.getProperty("user.dir")+"\\testData\\OpenCartLoginData.xlsx";
 	        ExcelUtility xlutil = new ExcelUtility(path); // creating an object for XLUtility
 
 	        int totalRows = xlutil.getRowCount("Sheet1");

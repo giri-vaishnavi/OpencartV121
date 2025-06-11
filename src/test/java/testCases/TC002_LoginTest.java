@@ -19,7 +19,7 @@ public class TC002_LoginTest extends TestBase.BaseClass{
 	    logger.info("clicking on my account");
 	    hp.clicklogin();
 	    logger.info("clicking on login option");
-	 
+
 	    //Login
 	    Login lp = new Login(driver);
 	    lp.setEmail(p.getProperty("email"));

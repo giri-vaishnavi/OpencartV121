@@ -46,7 +46,7 @@ public class ExtentReportManager implements ITestListener {
         // Set up ExtentReports
         extent = new ExtentReports();
         extent.attachReporter(sparkReporter);
-        extent.setSystemInfo("Application", "opencart");
+         extent.setSystemInfo("Application", "opencart");
         extent.setSystemInfo("Module", "Admin");
         extent.setSystemInfo("Sub Module", "Customers");
         extent.setSystemInfo("User Name", System.getProperty("user.name"));
